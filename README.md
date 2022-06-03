@@ -57,8 +57,11 @@ Customer trips are pretty consistent across gender and have small peaks on the w
 
 
 ## Summary
-This analysis showcases the success of bikesharing in NYC with high numbers of trips and subscribers, specifically male subscribers, but further analysis should be done to determine if Des Moines would be an appropriate city for implementing bike sharing. Additional visualizations of data in Des Moines would be helpful in order to ensure this business proposal is viable. Perhaps examining geographical data or transportation data from Des Moines would allow for a more educated decision from investors before assuming Des Moines will fare similarly to New York City.  
+This analysis showcases the success of bikesharing in NYC with high numbers of trips and subscribers, specifically male subscribers, but further analysis should be done to determine if Des Moines would be an appropriate city for implementing bike sharing. Additional visualizations of data in Des Moines would be helpful in order to ensure this business proposal is viable. Perhaps examining geographical data or transportation data from Des Moines would allow for a more educated decision from investors before assuming Des Moines will fare similarly to New York City.
+
     Additional Visualizations
          - Showing a comparison of starting station coordinates versus ending station coordinates in Des Moines may be useful for investors. Depending on the geographical layout of the city, this could help investors determine if additional effort would be needed to collect bikes from end stations and if riders would have access to enough bikes at their starting locations.
+
          - Examining a visualization with the age of riders and their starting or ending point could help investors implement additional features or safeguards for bikes and their riders.
+         
          - Finally, showing a map of tourist locations and businesses for starting and ending location could help determine the types of drivers and whether they are using the bikes for tourism or work. This could help investors understand if Des Moines would see similar success based on their population. 
