@@ -5,7 +5,7 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 
 ## Results 
 
-Visualizations below showcase results of this analysis. Full images with captions and additional information can be viewed via Tableau Story "NYC Bikesharing" [here](LINK GOES HERE)
+Visualizations below showcase results of this analysis. Full images with captions and additional information can be viewed via Tableau Story "NYC Bikesharing" [here](https://public.tableau.com/app/profile/katterli.coloutes/viz/NYCBikesharing_16542167073640/NYCBikesharing?publish=yes)
 
 
 !["Top Starting Locations"](images/Top_starting_locations.png)
