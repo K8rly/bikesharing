@@ -8,8 +8,14 @@ The purpose of this analysis is to convince investors that a bike-sharing progra
 Visualizations below showcase results of this analysis. Full images with captions and additional information can be viewed via Tableau Story "NYC Bikesharing" [here](https://public.tableau.com/app/profile/katterli.coloutes/viz/NYCBikesharing_16542167073640/NYCBikesharing?publish=yes)
 
 
+
+
+
 !["Top Starting Locations"](images/Top_starting_locations.png)
 Trips start in locations where larger, darker circles are seen above. The most dense section of trips is between Times Square and Washington Square Park, suggesting they may be popular locations for tourists to pick up a bike. 
+
+
+
 
 
 
@@ -20,8 +26,14 @@ Peak trip times in August are 5:00 to 6:00 PM. 8:00 AM is the next peak time, so
 
 
 
+
+
+
 !["Gender Breakdown"](images/Gender_breakdown.png)
 Males are more likely to take rides than females, as seen in the gender breakdown above.
+
+
+
 
 
 
@@ -32,8 +44,14 @@ Checkout times for the majority of the rides are short, running under 20 minutes
 
 
 
+
+
+
 !["Checkout Times by Gender"](images/Checkout_times_gender.png)
 Checkout times by gender are consistent with the gender breakdown for trips overall. Males are more likely to take rides than females, and the checkout times are similar for both females and males as well as for the unknown gender category.
+
+
+
 
 
 
@@ -44,8 +62,14 @@ Peak trip times are on weekends between 9:00 and 7:00 PM and during morning and 
 
 
 
+
+
+
 !["Trips by Gender per Weekday Hours"](images/Trips_by_gender_weekday.png)
 This image is consistent with the overall gender breakdown on trips, being that males are more likely to use the bikes than females. This breakdown also shows similar results to the image of "Trips by Weekday per Hour" in that trips are taken more often during rush hour on the weekdays and throughout the weekend days.
+
+
+
 
 
 
@@ -56,10 +80,12 @@ Customer trips are pretty consistent across gender and have small peaks on the w
 
 
 
+
 ## Summary
 This analysis showcases the success of bikesharing in NYC with high numbers of trips and subscribers, specifically male subscribers, but further analysis should be done to determine if Des Moines would be an appropriate city for implementing bike sharing. Additional visualizations of data in Des Moines would be helpful in order to ensure this business proposal is viable. Perhaps examining geographical data or transportation data from Des Moines would allow for a more educated decision from investors before assuming Des Moines will fare similarly to New York City.
 
-    Additional Visualizations
+### Additional Visualizations
+
  - Showing a comparison of starting station coordinates versus ending station coordinates in Des Moines may be useful for investors. Depending on the geographical layout of the city, this could help investors determine if additional effort would be needed to collect bikes from end stations and if riders would have access to enough bikes at their starting locations.
 
  - Examining a visualization with the age of riders and their starting or ending point could help investors implement additional features or safeguards for bikes and their riders.
